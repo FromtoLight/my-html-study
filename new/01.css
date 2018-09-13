@@ -1,0 +1,25 @@
+p{
+    font-style: normal;
+    font-family: Times New Roman,"楷体";
+    color: deeppink;
+    text-align: left;
+    font-size: 30px;
+    text-indent: 2em;
+}
+h1{
+    font-style: normal;
+    font-family: Times New Roman,"楷体";
+    color: black;
+    text-align: center;
+    font-size: 40px;
+}
+body
+{
+    background-size: cover;
+}
+td{
+    font-family: Times New Roman,"楷体";
+    color: deeppink;
+    text-align: center;
+    font-size: 30px;
+}
